@@ -1,2 +1,2 @@
-# Pong-Game
-Racket
+Pong game written in Racket
+ ...!!!
